@@ -69,7 +69,7 @@ switch ($_POST['request']){
 					</tr>
 					<tr>
 						<td>Email:</td>
-						<td><input type="text" name="email" /></td>
+						<td><input type="text" name="email123" /></td>
 					</tr>
 					<tr>
 						<td>Password:</td>
